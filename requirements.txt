@@ -1,0 +1,5 @@
+numpy
+pretty_midi
+matplotlib
+librosa
+scipy
